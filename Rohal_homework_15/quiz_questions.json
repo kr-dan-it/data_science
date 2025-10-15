@@ -1,0 +1,64 @@
+{
+  "Questions": [
+      {
+      "id": 1,
+      "question":"What is the most preferred image format used for logos in the Wikimedia database? ",
+      "correct_answer":".svg",
+      "answers":[".jpeg", ".svg", ".png", ".gif"]
+    },
+    {
+      "id": 2,
+      "question":"How long is an IPv6 address?",
+      "correct_answer":"128 bits",
+      "answers":["128 bits","32 bits","64 bits","128 bytes"]
+    },
+    {
+      "id": 3,
+      "question":"What does the computer software acronym JVM stand for?",
+      "correct_answer":"Java Virtual Machine",
+      "answers":["Java Vendor Machine","Java Virtual Machine","Java Visual Machine","Just Virtual Machine"]
+    },
+    {
+      "id": 4,
+      "question":"Which computer language would you associate Django framework with?",
+      "correct_answer":"Python",
+      "answers":["C#","C++","Java","Python"]
+    },
+    {
+      "id": 5,
+      "question":"What does the &quot;MP&quot; stand for in MP3?",
+      "correct_answer":"Moving Picture",
+      "answers":["Music Player","Multi Pass","Moving Picture","Micro Point"]
+    },
+    {
+      "id": 6,
+      "question":"How many kilobytes in one gigabyte (in decimal)?",
+      "correct_answer":"1000000",
+      "answers":["1024","1000","1000000","1048576"]
+    },
+    {
+      "id": 7,
+      "question":"If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+      "correct_answer":"Binary",
+      "answers":["JavaScript","Binary","C++","Python"]
+    },
+    {
+      "id": 8,
+      "question":"When Gmail first launched, how much storage did it provide for your email?",
+      "correct_answer":"1GB",
+      "answers":["512MB","1GB","5GB","Unlimited"]
+    },
+    {
+      "id": 9,
+      "question":"What does the Prt Sc button do?",
+      "correct_answer":"Captures what&#039;s on the screen and copies it to your clipboard",
+      "answers":["Nothing","Saves a .png file of what&#039;s on the screen in your screenshots folder in photos","Closes all windows","Captures what&#039;s on the screen and copies it to your clipboard"]
+    },
+    {
+      "id": 10,
+      "question":"In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+      "correct_answer":"Final",
+      "answers":["Static","Private","Public","Final"]
+    }
+  ]
+}
